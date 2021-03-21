@@ -6,7 +6,7 @@ const request = require('request')
 const client = new Discord.Client();
 
 
-const prefixo = "+"
+const prefixo = "+" // Adiciona o prefixo quando o usuário for digitar no discord +comando
 
 
 
