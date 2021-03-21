@@ -1,0 +1,29 @@
+{
+  "name": "bot-discord-nodejs",
+  "version": "1.0.0",
+  "description": "Bot simples para o Discord usando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omonteirox/Bot-Discord-Nodejs.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "nodejs"
+  ],
+  "author": "Gustavo Monteiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omonteirox/Bot-Discord-Nodejs/issues"
+  },
+  "homepage": "https://github.com/omonteirox/Bot-Discord-Nodejs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "discord.js": "^12.5.1",
+    "require": "^2.4.20"
+  }
+}
